@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encounter.iml" filepath="$PROJECT_DIR$/.idea/modules/encounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encounter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/encounter_main.iml" group="encounter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encounter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/encounter_test.iml" group="encounter" />
+    </modules>
+  </component>
+</project>
