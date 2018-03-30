@@ -2,7 +2,7 @@ import org.junit.Assert
 import org.junit.Test
 
 
-class PlayerTest {
+class HealthTest {
     // Testing Health functionality
     @Test
     fun testHealthBelowZero() {
